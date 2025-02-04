@@ -17,7 +17,7 @@ i.fab{
 }
 .card p{
 	text-align:left;
-	color:white;
+	
 }
 
 
@@ -81,7 +81,7 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
     color: #213547;
     background-color: #ffffff;
